@@ -72,6 +72,8 @@ seven bubbles represented on the diagram
 - The data that flow into or out of a bubble must match the data flow at the next level
 of DFD. This is known as balancing a DFD.
 
+<p align="center"><img src="Images/Screenshot 2025-03-26 200059.png" width="" height=""></p>
+
 ## Common mistakes in DFD
 - Many beginners commit the mistake of drawing more than one bubble
 in the context diagram. Context diagram should depict the system as a
