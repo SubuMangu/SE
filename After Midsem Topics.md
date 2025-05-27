@@ -1,0 +1,45 @@
+- Software Reliability
+    - Why software reliability is more difficult than hardware reliability?
+    - Hardware Reliabity vs Software Reliabity
+    - Reliability metrics*
+- Reliability Growth Models
+    - Jelinski and Moranda model
+    - Littlewood and Verall’s model
+- Software Quality
+    - Fitness of Purpose
+    - Quality Factors
+- ISO 9000(Later)
+- SEI
+    - CMM
+    - Maturity Levels*
+    - Shortcomings of CMM
+- Software Maintenance
+    - Types
+- Software Reverse Engineering
+    - Cosmetic Changes*
+- Software maintenance process models
+    - Factors dependind on
+    - Types of Models used*
+- Metrics for project size estimation
+    - LOC and it's demerits
+    - FP**
+        - TCF,UFP
+        - Shortcoming and Feature Point Metric
+- Project Estimation Techniques
+    - Types
+- Empirical Project Estimation Techniques
+    - Expert Judgement
+    - Delphi Cost Estimation
+- Basic COCOMO
+    - Types
+    - Effort 
+    - Development Time
+- Intermidiate COCOMO
+    - Types of Cost Drivers
+- Complete COCOMO
+- Halstead Software Science
+    -  Metrics
+- Client Server Software 
+- CORBA
+- SOA 
+- SaaS

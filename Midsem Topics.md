@@ -1,0 +1,56 @@
+- Evolution of software lifecycle 
+- program vs product
+- software crisis and it's solution 
+- SDLC
+- Process vs Methodology
+- Phase Entry exit criteria 
+- 99% syndrome
+- Classifical Waterfall Model
+	- Stages and it's diagram
+	- disadvantages 
+	- SRS*
+	- Unit Testing and System Testing 
+- Iterative waterfall model 
+	- Feedback 
+	- Phase containment error 
+- Prototyping model 
+- Evolutionary Model 
+- Spiral Model
+- V model
+- RAD Model
+- Agile models vs traditional models
+- Agile software models
+    - Scrum
+    - XP
+- Requirement engineering projects and activities involved in it
+    - MOSCOW negotiation rule
+- Software design specifications
+- Stages of Software design or Design Activities
+- Modularity
+- Cohesion and coupling.
+- Classification of cohesiveness
+- Classification of coupling
+- Functional independence and its advantages
+- Decision table and decision tree
+    - Limits and advantages of both
+- Structural analysis and structural design
+- DFD
+- flow chart vs structure chart
+- transaction analysis and transform analysis
+- code review and its types 
+	- code inspection 
+	- code walk through
+- testing terminologies: error,failure,testcase,testsuite
+- unit testing details 
+	- driver and stop modules 
+- black box testing 
+- white box testing
+	- Mutation testing 
+	- data flow based testing 
+- Cyclometric Complexity and it's significance 
+	- McCabe'  Cyclometric Complexity 
+- Debugging strategies 
+- Integration testing and it's types 
+- Phased vs increamental integration testing 
+- system testing types
+- Regression testing
